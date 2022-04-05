@@ -6,4 +6,4 @@
 - Email: stefan.chipsy@gmail.com;
 - LinkedIn: https://www.linkedin.com/in/stefan-stojkovic-75004a135/;
 - Facebook: https://www.facebook.com/profile.php?id=1008714495;
-- Git Profile: https://github.com/chipsy1992.
+- Git Profile: https://github.com/chipsy1992;
