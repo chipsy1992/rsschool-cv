@@ -46,3 +46,18 @@ function updateScores(player, opponent) {
   }
 }
 ```
+
+### Experience
+
+I don't have any experience. I finished IT Academy, some courses on Udemy, and working on some projects on my own.
+
+### Education
+
+Engineer of Technology - Faculty of Technology (http://www.tf.ni.ac.rs/);
+Certified PHP Web Developer - ITAcademy (https://www.it-akademija.com/);
+
+### Foreign Languages
+
+**English**
+LISTENING **C1** READING **C1**
+WRITING **B2** SPOKEN PRODUCTION **B2** SPOKEN INTERACTION **B2**
