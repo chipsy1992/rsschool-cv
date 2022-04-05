@@ -24,3 +24,25 @@ As I already mentioned I do not have much experience in programing however, I kn
 - MySql;
 - VScode;
 - GitHub.
+
+```js
+const resetButton = document.querySelector("#reset");
+const winningScoreSelect = document.querySelector("#playto");
+
+let winningScore = 3;
+let isGameOver = false;
+
+function updateScores(player, opponent) {
+  if (!isGameOver) {
+    player.score += 1;
+    if (player.score === winningScore) {
+      isGameOver = true;
+      player.display.classList.add("has-text-success");
+      opponent.display.classList.add("has-text-danger");
+      player.button.disabled = true;
+      opponent.button.disabled = true;
+    }
+    player.display.textContent = player.score;
+  }
+}
+```
