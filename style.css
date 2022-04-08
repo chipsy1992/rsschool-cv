@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color: #fff;
+}
+
+body {
+  background-color: #1d1c1c;
+}
+
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.summary {
+  width: 82%;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(162, 154, 154);
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: rgb(137, 121, 121);
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+  padding: 0 100px;
+}
